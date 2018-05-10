@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1525865565 source:c:\programowanie wppt\programy\mateusz jachniak\c++ rekrutacja\1\main.cpp
+	<iostream>
+	<fstream>
+	<bitset>
+	<climits>
+	<vector>
+	<conio.h>
+	<algorithm>
+
+1525865794 source:c:\users\kojot\desktop\c++ code\1\main.cpp
+	<iostream>
+	<fstream>
+	<bitset>
+	<climits>
+	<vector>
+	<conio.h>
+	<algorithm>
+
