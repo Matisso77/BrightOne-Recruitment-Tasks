@@ -117,7 +117,7 @@ int main(){
 
 
 
-    //write results to output file
+    //write results to output into results.txt
 
     fstream results;
     results.open("Results.txt", ios::out);
@@ -131,6 +131,8 @@ int main(){
 
     for( size_t i = 0; i < uneven.size(); i++ )
         results<<hex<<(int)uneven[i]<<endl;
+
+	results.close();
 
     return 0;
 }
